@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="annotations-13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/annotations-13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/Ex2_Server_v0.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/gson-2.8.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/java-json.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/kotlin-stdlib-1.3.72.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/kotlin-stdlib-common-1.3.70.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/okhttp-4.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/okio-2.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libr/jl1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
